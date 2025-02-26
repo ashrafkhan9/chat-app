@@ -1,8 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![HOME PAGE](![Screenshot 2025-02-26 171744](https://github.com/user-attachments/assets/6cd7c0c9-3a07-4ca0-9208-372cbd603d5c)
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
 
 Highlights:
 
