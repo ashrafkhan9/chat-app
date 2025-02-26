@@ -39,3 +39,5 @@ npm run build
 ```shell
 npm start
 ```
+
+LIVE LINK: https://chat-app-master.up.railway.app/
